@@ -1,0 +1,7 @@
+nav, ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 10px; /* CORREGIDO: sin espacio intermedio */
+}

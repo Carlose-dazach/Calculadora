@@ -1,0 +1,54 @@
+.contenedor {
+    margin-top: 50px;
+}
+
+.card {
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+    background-color: #E3F2FD;
+}
+
+.campo {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.campo label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.campo input {
+    width: 100%;
+    padding: 10px;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.resultado {
+    margin-top: 30px;
+    padding: 15px;
+}
+
+.boton-triangulo {
+    background-color: #8CC0EB;
+    color: white;
+}
+
+.boton-rectangulo {
+    background-color: #2196F3;
+    color: white;
+}
+
+.boton-cuadrado {
+    background-color: #0D47A1;
+    color: white;
+}
